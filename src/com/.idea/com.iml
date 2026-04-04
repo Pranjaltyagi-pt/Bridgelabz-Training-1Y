@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/gla/Submission Of Applying Encapsulation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gla/Submission Of Reusing Implementations using Inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gla/Story Based Problem Solving-1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gla/Submission Of Programming Abstractly Through Interfaces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gla/Submission of Creating and Using Methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/out/production/com/12-Submission Of Exception Handling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea/Submissionofwrapperclass" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
